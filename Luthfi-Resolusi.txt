@@ -2,5 +2,5 @@ LUTHFI RESOLUSI
 - Konsisten untuk belajar ngoding
 - Membuat website menggunakan Javascript
 - Membuat Aplikasi
-- Membuat workshop
 - Kolaborasi dengan banyak orang ahli
+- Belajar digital 
